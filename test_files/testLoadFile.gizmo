@@ -1,0 +1,18 @@
+Square s1 0 0
+Circle c1 1 1
+Triangle t1 2 2
+LeftFlipper lf1 5 5
+RightFlipper rf1 7 7
+Absorber absorber 0 19 20 20
+Rotate lf1
+Rotate rf1
+Connect c1 s1
+KeyConnect key 32 down s1
+
+Square s2 9 9
+Move s2 10 10
+Ball b 15 15 0 0
+Move b 12 12
+
+Gravity 25.0
+Friction 0.025 0.025

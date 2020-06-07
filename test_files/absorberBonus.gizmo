@@ -1,0 +1,39 @@
+Absorber var0 1 19 13 20 
+Circle var1 17 9 
+Triangle var2 13 0 
+Absorber var3 6 8 14 13 
+Triangle var4 0 19 
+Triangle var5 0 0 
+Circle var6 2 9 
+Circle var7 17 11 
+Square var8 13 7 
+Circle var9 18 10 
+Circle var10 1 10 
+LeftFlipper var11 13 18 
+Triangle var12 19 0 
+Circle var13 2 11 
+Triangle var14 19 19 
+Rotate var4
+Rotate var4
+Rotate var4
+Rotate var12
+Rotate var14
+Rotate var14
+Ball var15 7.433333333333334 5.6 50.0 50.0 
+Connect var0 var0
+Connect var1 var1
+Connect var2 var2
+Connect var4 var4
+Connect var5 var5
+Connect var6 var6
+Connect var7 var7
+Connect var8 var8
+Connect var9 var9
+Connect var10 var10
+Connect var12 var12
+Connect var13 var13
+Connect var14 var14
+KeyConnect key 32 down var3
+KeyConnect key 81 down var11
+Gravity 25.0
+Friction 0.025 0.025
